@@ -17,7 +17,7 @@ window.onload = function()
   {
     if (click == 0)
     {
-      document.getElementById("text").append("Lorem ignissimos atque iure!");
+      document.getElementById("text").append("Lorem ignissimos atque iure!ipsum dolor sit amet, consectetur adipisicing elit. Molestiae temporibus ullam perspiciatis laudantium! ");
       click = 1;
     }
     else
